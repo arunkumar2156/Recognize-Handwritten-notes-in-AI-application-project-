@@ -1,0 +1,1 @@
+# Recognize-Handwritten-notes-in-AI-application-project-
